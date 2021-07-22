@@ -1,4 +1,4 @@
 *.o
-/Preject
+/Preject/Objects
 
 !.gitignore
